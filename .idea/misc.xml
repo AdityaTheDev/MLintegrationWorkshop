@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ranap/StudioProjects/Android-App/app/src/main/res/drawable/ic_baseline_camera_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/ranap/StudioProjects/Android-App/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/ranap/StudioProjects/Android-App/app/src/main/res/layout/activity_camera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ranap/StudioProjects/Android-App/app/src/main/res/layout/activity_clouds.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ranap/StudioProjects/Android-App/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/ranap/StudioProjects/Android-App/app/src/main/res/layout/fragment_camera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ranap/StudioProjects/Android-App/app/src/main/res/menu/bottom_nav_bar_menu.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/layout/activity_clouds.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.294478527607362" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
